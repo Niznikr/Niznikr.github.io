@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bulma/css/bulma.css";
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+.icon {
+  font-size: 4em;
+  margin: 20px;
+}
+.no-padding {
+  padding-bottom: 0em;
+}
+body {
+  background-color: #f3f3f3;
+}
+md-card.mat-card {
+  display: inline-block;
+}
