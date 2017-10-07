@@ -1,0 +1,67 @@
+body {
+  background-color: #f5f5f5;
+}
+
+a {
+  color: black !important;
+}
+
+.dev {
+  font-size: -webkit-xxx-large;
+  margin: .5rem;
+}
+
+.devicon-git-plain {
+  max-width: 4em;
+}
+
+.no-padding {
+  padding-bottom: 0em !important;
+}
+
+.card {
+  margin: 0 auto;
+}
+.card-header-title {
+  display: block !important;
+  font-size: 2rem;
+}
+.card-content {
+  font-size: 16px;
+  color: black;
+}
+
+.fit {
+  display: flex !important;
+}
+
+.columns {
+  margin: 0 auto;
+}
+
+.icon {
+  margin: 25px;
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: fit-content;
+  background-color: rgba(0, 0, 0, 0.75);
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 10px 5px 10px;
+  font-size: 16px;
+  transform: translateX(-50%) translateY(0px);
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
