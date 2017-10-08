@@ -10,7 +10,6 @@ a {
   font-size: 48px;
   margin: .5rem;
   display: block;
-  cursor: pointer !important;
 }
 
 .devicon-git-plain {
