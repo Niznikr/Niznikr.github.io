@@ -62,6 +62,7 @@ a {
   -webkit-transform: translate(-50%, 0%);
   -moz-transform: translate(-50%, 0%);
   -o-transform: translate(-50%, 0%);
+  left: 50%;
   position: absolute;
   z-index: 1;
 }
