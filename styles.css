@@ -3,12 +3,12 @@ body {
 }
 
 a {
-  color: black !important;
+  color: black;
 }
 
 .dev {
   font-size: 48px;
-  margin: .5rem;
+  margin: 0.5rem;
   display: block;
 }
 
@@ -17,14 +17,14 @@ a {
 }
 
 .no-padding {
-  padding-bottom: 0em !important;
+  padding-bottom: 0em;
 }
 
 .card {
   margin: 0 auto;
 }
 .card-header-title {
-  display: block !important;
+  display: block;
   font-size: 2rem;
 }
 .card-content {
@@ -33,7 +33,7 @@ a {
 }
 
 .fit {
-  display: flex !important;
+  display: flex;
 }
 
 .columns {
